@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom RSS Feed Example
- * Plugin URI:  https://philipnewcomer.net/2016/08/creating-custom-feeds-wordpress-right-way/
+ * Plugin URI:  https://philipnewcomer.net/2016/08/creating-custom-rss-feeds-wordpress-right-way/
  * Description: An example plugin to demonstrate the right way to implement a custom RSS feed in WordPress.
  * Version:     1.0
  * Author:      Philip Newcomer
